@@ -1,0 +1,45 @@
+site_name: APC UPS protocol
+site_description: Unofficial APC UPS protocol
+site_url: https://kirbah.github.io/apc-ups/
+repo_name: 'kirbah/apc-ups'
+repo_url: 'https://github.com/kirbah/apc-ups'
+edit_uri: 'https://github.com/kirbah/apc-ups/blob/master/docs/'
+
+strict: true
+
+theme: 
+  name: material
+  palette:
+    primary: 'blue'
+    accent: 'indigo'
+  features:
+    - tabs
+  font:
+    text: Barlow
+    code: Roboto Mono
+markdown_extensions:
+  - admonition
+  - toc:
+     permalink: "~"
+     toc_depth: 3
+  - pymdownx.mark
+  - pymdownx.tabbed
+  - pymdownx.emoji:
+  - pymdownx.betterem
+  - pymdownx.caret
+  - codehilite
+  - meta
+      
+plugins:
+  - search
+  - alternate-link
+  - minify:
+      minify_html: true
+
+google_analytics:
+  - 'UA-163443748-1'
+  - 'auto'
+
+nav: 
+  - Home: README.md
+  - Contributing: Contributing.md
