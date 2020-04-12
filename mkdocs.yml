@@ -23,7 +23,6 @@ markdown_extensions:
      permalink: "~"
      toc_depth: 3
   - pymdownx.mark
-  - pymdownx.tabbed
   - pymdownx.emoji:
   - pymdownx.betterem
   - pymdownx.caret
@@ -32,7 +31,6 @@ markdown_extensions:
       
 plugins:
   - search
-  - alternate-link
   - minify:
       minify_html: true
 
