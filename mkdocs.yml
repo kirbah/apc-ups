@@ -40,4 +40,6 @@ google_analytics:
 
 nav: 
   - Home: README.md
+  - Smart UPS protocol: Smart-protocol.md
+  - UPS Constants: UPS-constants.md
   - Contributing: Contributing.md
