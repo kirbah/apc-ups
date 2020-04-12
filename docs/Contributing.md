@@ -5,17 +5,17 @@ If you spot an error in an article use the *pencil icon* link at the top of the 
 
 You'll be taken to the GitHub repository page of that file.
 
-![Edit file](_media/pr_tutorial_1.png)
+![Edit file](media/pr_tutorial_1.png)
 
 Click on the **edit** button (pencil icon). Edit/Add the text you wanted. When finished find the **Propose file change** button at the bottom and click it.
 
-![Propose file change](_media/pr_tutorial_2.png)
+![Propose file change](media/pr_tutorial_2.png)
 
 Next you need to click **Create pull request** which is GitHub speak for propose changes.
-![Create pull request](_media/pr_tutorial_3.png)
+![Create pull request](media/pr_tutorial_3.png)
 
 In the PR window add a small description of what you did and click **Create pull request**
-![Create pull request](_media/pr_tutorial_4.png)
+![Create pull request](media/pr_tutorial_4.png)
 
 Now you wait for one of the Tasmota admins to approve your PR (or deny :smiling_imp:, no guarantees!) 
 
