@@ -42,4 +42,6 @@ nav:
   - Home: README.md
   - Smart UPS protocol: Smart-protocol.md
   - UPS Constants: UPS-constants.md
+  - Setup examples:
+    - SUA1500i: Setup-example-SUA1500i.md
   - Contributing: Contributing.md
