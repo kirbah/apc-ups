@@ -66,9 +66,16 @@ Battery voltage cannot be changed. It is model specific setting.
 | SUOL1000I        | 06 | B6 | 1B | A6 |          |             |                 |
 | SUOL2000XL       | 0D | BD | 14 | 75 | 52       | 416.5.I     |                 |
 | SURT1000XLI      | 0A | BB | 19 | A8 | 4E       | 411.x.I     |                 |
-| SURT3000XLI      | 06 | B6 | 0F | CC | 56       | 450.2.I     |                 |
+| SURT3000XLI      | 06 | B6 | 0F | CA | 56       | 450.2.I     |                 |
 | SURT5000XLI      | 05 | BA | 15 | 86 | 5A       | 451.13.W    |                 |
+| SURT6000XLI      | 07 | BE | 24 | 7E |          |             |                 |
 | SURT7500XLI      | 03 | BB | 20 | 97 | 63       |             |                 |
-| SURT10000XLI     | 06 | B8 | 19 | AB |          | 476.12.W    |                 |
+| SURT8000XLI      | 0A | C0 | 28 | 8F |          |             |                 |
+| SURT10000XLI     | 06 | B8 | 19 | 7E |          | 476.12.W    |                 |
+| SURTA1500XL      | 05 | B7 | 12 | A0 |          |             |                 |
+| SURTA1500XLJ     | 05 | B7 | 12 | A0 |          |             |                 |
+| SURTA2000XL      | 04 | BC | 19 | 7E |          |             |                 |
+| SURTA2400XLJ     | 0C | B5 | 10 | E4 |          |             |                 |
+| SURTA3000XL      | 0C | BD | 1F | C2 |          |             |                 |
 | SUM1500RMXLI2U   | 03 | B7 | 0D | A5 | 62       | 716.3.I     |                 |
 | SUM3000RMXLI2U   | 03 | B7 | 0D | A5 | 6A       | 715.3.I     |                 |
