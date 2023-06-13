@@ -8,7 +8,9 @@ edit_uri: 'https://github.com/kirbah/apc-ups/blob/master/docs/'
 strict: true
 
 theme: 
-  name: material
+  name: mkdocs
+  analytics:
+    gtag: G-TRJ1V77BBM
   palette:
     primary: 'blue'
     accent: 'indigo'
@@ -33,9 +35,6 @@ plugins:
   - search
   - minify:
       minify_html: true
-
-gtag:
-  - G-TRJ1V77BBM
 
 nav: 
   - Home: README.md
