@@ -10,8 +10,7 @@ strict: true
 theme: 
   name: mkdocs
   locale: en
-  analytics:
-    gtag: G-TRJ1V77BBM
+    analytics: {gtag: 'G-TRJ1V77BBM'}
   features:
     - navigation.tabs
 
