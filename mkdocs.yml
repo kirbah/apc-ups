@@ -34,9 +34,8 @@ plugins:
   - minify:
       minify_html: true
 
-google_analytics:
-  - 'UA-163443748-1'
-  - 'auto'
+gtag:
+  - G-TRJ1V77BBM
 
 nav: 
   - Home: README.md
