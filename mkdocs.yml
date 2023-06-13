@@ -8,10 +8,8 @@ edit_uri: 'https://github.com/kirbah/apc-ups/blob/master/docs/'
 strict: true
 
 theme: 
-  name: mkdocs
+  name: material
   locale: en
-  analytics: 
-    gtag: G-TRJ1V77BBM
   features:
     - navigation.tabs
 
@@ -29,6 +27,11 @@ markdown_extensions:
 
 plugins:
   - search
+
+extra:
+  analytics:
+    provider: google
+    property: G-TRJ1V77BBM
 
 nav: 
   - Home: README.md
