@@ -9,16 +9,12 @@ strict: true
 
 theme: 
   name: mkdocs
+  locale: en
   analytics:
     gtag: G-TRJ1V77BBM
-  palette:
-    primary: 'blue'
-    accent: 'indigo'
   features:
-    - tabs
-  font:
-    text: Barlow
-    code: Roboto Mono
+    - navigation.tabs
+
 markdown_extensions:
   - admonition
   - toc:
@@ -30,11 +26,9 @@ markdown_extensions:
   - pymdownx.caret
   - codehilite
   - meta
-      
+
 plugins:
   - search
-  - minify:
-      minify_html: true
 
 nav: 
   - Home: README.md
