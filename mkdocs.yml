@@ -1,29 +1,31 @@
 site_name: Unofficial APC UPS protocol
 site_description: Unofficial APC UPS protocol
 site_url: https://kirbah.github.io/apc-ups/
-repo_name: 'kirbah/apc-ups'
-repo_url: 'https://github.com/kirbah/apc-ups'
-edit_uri: 'https://github.com/kirbah/apc-ups/blob/master/docs/'
+repo_name: "kirbah/apc-ups"
+repo_url: "https://github.com/kirbah/apc-ups"
+edit_uri: "https://github.com/kirbah/apc-ups/blob/master/docs/"
 
 strict: true
 
-theme: 
+theme:
   name: material
   palette:
-    primary: 'blue'
-    accent: 'indigo'
+    primary: "blue"
+    accent: "indigo"
   locale: en
   features:
     - navigation.tabs
   font:
     text: Barlow
     code: Roboto Mono
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
   - toc:
-     permalink: "~"
-     toc_depth: 3
+      permalink: "~"
+      toc_depth: 3
   - pymdownx.mark
   - pymdownx.emoji:
   - pymdownx.betterem
@@ -42,16 +44,16 @@ extra:
     property: G-TRJ1V77BBM
   consent:
     title: Cookie consent
-    description: >- 
+    description: >-
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
 
-nav: 
+nav:
   - Home: README.md
   - Smart UPS protocol: Smart-protocol.md
   - UPS Constants: UPS-constants.md
   - Setup examples:
-    - SUA1500i: Setup-example-SUA1500i.md
+      - SUA1500i: Setup-example-SUA1500i.md
   - Contributing: Contributing.md
