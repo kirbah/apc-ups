@@ -60,10 +60,10 @@ nav:
   - Smart UPS protocol: Smart-protocol.md
   - UPS Constants: UPS-constants.md
   - Cables:
-      - Cables Overview: cables\Cables.md
-      - Smart-Custom Cable: cables\Smart-Custom-Cable.md
-      - 940-0024C Cable: cables\940-0024C.md
-      - Custom-RJ45 Cable: cables\custom-rj45-cable.md
+      - Cables Overview: cables/Cables.md
+      - Smart-Custom Cable: cables/Smart-Custom-Cable.md
+      - 940-0024C Cable: cables/940-0024C.md
+      - Custom-RJ45 Cable: cables/custom-rj45-cable.md
   - Setup examples:
       - SUA1500i: Setup-example-SUA1500i.md
   - Contributing: Contributing.md
