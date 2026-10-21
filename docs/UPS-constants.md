@@ -59,6 +59,7 @@ Battery voltage cannot be changed. It is model specific setting.
 | SUA1500I         | 09 | B9 | 13 | A1 | 0E       | 601/653.x.I | 24v             |
 | SUA1500RMI2U     | 08 | B4 | 10 | A1 | 8E       | 617.3.I     |                 |
 | SUA2200I         | 08 | B8 | 12 | B3 | 26       | 654.12.I    |                 |
+| SUA2200 (120V)   |    |    |    | B3 |          | 654.19.D    | 48v             |
 | SUA2200RMI2U     | 09 | BC | 11 | 81 | A6       | 665.4.I     |                 |
 | SUA2200XLI       | 0A | B7 | 0F | 7F | 66       | 690.x.I     |                 |
 | SUA3000RMI2U     | 04 | B9 | 0E | 70 | AA       | 666.4.I     |                 |
